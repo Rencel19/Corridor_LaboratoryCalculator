@@ -1,0 +1,24 @@
+.calculator {
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.calculator input {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.res {
+    width: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
